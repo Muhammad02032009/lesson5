@@ -33,6 +33,16 @@ if (true) {
 ```
 ___
 
+### Hosting 
+* Хостинг — это механизм JavaScript, при котором объявления переменных и функций перемещаются в начало области видимости перед выполнением кода.
+
+  Хостинг в JavaScript — это поведение, при котором функция или переменная могут использоваться до объявления.
+
+
+    * hosting hangomi ` functiondeclaretion `  va ` var ` ba amal meoyad vale dar holati ` var `  budan qimmati on underfaind meshavad
+    * dar ` const ` va ` let ` on ba ` temperal dead zone ` meaftad to on dame ki on dar scophoi khud naboshad
+
+  ___
 ![alt text](<Снимок экрана 2024-08-10 105607.png>)
 
 
